@@ -72,8 +72,8 @@ namespace superSocketServer
         //2.
         static void appServer_NewRequestReceived(AppSession session, StringRequestInfo requestInfo)
         {
-            Console.WriteLine(requestInfo.Key);
-            session.Send(requestInfo.Body);
+            Console.WriteLine("来自客户端的消息Key:" + requestInfo.Key);
+            session.Send("来自客户端的消息Body:" + requestInfo.Body);
         }
 
 
