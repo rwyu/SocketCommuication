@@ -66,7 +66,7 @@ namespace superSocketClient
                 {
                     strSend = Console.ReadLine();
                 } 
-                var buffter = Encoding.UTF8.GetBytes($"客户端:发送的第{i}条消息" + "\r\n");
+                var buffter = Encoding.UTF8.GetBytes($" 客户端:发送的第{i}条消息" + "\r\n");
                 var temp = socketClient.Send(buffter);
                 i++;
                 Thread.Sleep(10000);
