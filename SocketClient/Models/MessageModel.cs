@@ -16,5 +16,7 @@ namespace SocketClient.Models
         public string StrMsg { get; set; }
 
         public string StrSendTime { get { return DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss"); } }
+
+        public string StrReceivedTime { get; set; }
     }
 }
