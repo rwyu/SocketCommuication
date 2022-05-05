@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace SocketClient.Models
 {
+    /// <summary>
+    /// messagemodel
+    /// </summary>
     public class MessageModel
     {
         public string Name { get; set; }
