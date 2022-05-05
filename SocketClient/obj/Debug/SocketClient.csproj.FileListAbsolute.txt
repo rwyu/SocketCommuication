@@ -1,0 +1,8 @@
+D:\PersonTesting\SocketCom\SocketClient\bin\Debug\SocketClient.exe.config
+D:\PersonTesting\SocketCom\SocketClient\bin\Debug\SocketClient.exe
+D:\PersonTesting\SocketCom\SocketClient\bin\Debug\SocketClient.pdb
+D:\PersonTesting\SocketCom\SocketClient\obj\Debug\SocketClient.csproj.AssemblyReference.cache
+D:\PersonTesting\SocketCom\SocketClient\obj\Debug\SocketClient.csproj.SuggestedBindingRedirects.cache
+D:\PersonTesting\SocketCom\SocketClient\obj\Debug\SocketClient.csproj.CoreCompileInputs.cache
+D:\PersonTesting\SocketCom\SocketClient\obj\Debug\SocketClient.exe
+D:\PersonTesting\SocketCom\SocketClient\obj\Debug\SocketClient.pdb
