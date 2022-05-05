@@ -70,6 +70,11 @@ namespace superSocketServer
         }
 
         //2.  
+        /// <summary>
+        /// 服务端接收客户端消息处理
+        /// </summary>
+        /// <param name="session"></param>
+        /// <param name="requestInfo"></param>
         static void appServer_NewRequestReceived(AppSession session, StringRequestInfo requestInfo)
         {
             Console.WriteLine("来自客户端的消息Key:  " + requestInfo.Key);
