@@ -69,10 +69,10 @@ namespace superSocketServer
             Console.WriteLine(count);
         }
 
-        //2.
+        //2.  
         static void appServer_NewRequestReceived(AppSession session, StringRequestInfo requestInfo)
         {
-            Console.WriteLine("来自客户端的消息Key:" + requestInfo.Key);
+            Console.WriteLine("来自客户端的消息Key:  " + requestInfo.Key);
             session.Send("来自客户端的消息Body:" + requestInfo.Body);
         }
 
