@@ -57,7 +57,7 @@ namespace superSocketClient
 
 
         static void Send()
-        {      
+        {       
             int i=1;
             while (true)
             {
