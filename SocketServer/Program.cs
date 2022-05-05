@@ -58,13 +58,14 @@ namespace superSocketServer
             Console.WriteLine($"服务端得到来自客户端的连接成功");
 
             var count = appServer.GetAllSessions().Count();
-            Console.WriteLine("~~" + count);
-            session.Send("Welcome to SuperSocket Telnet Server");
+            Console.WriteLine("服务端当前连接数目:" + count);
+            Console.WriteLine($"当前连入服务端的sessionid:{session.SessionID}");
+            session.Send("---- Welcome to SuperSocket Telnet Server---");
         }
 
         static void appServer_NewSessionClosed(AppSession session, CloseReason aaa)
         {
-            Console.WriteLine($"服务端 失去 来自客户端的连接" + session.SessionID + aaa.ToString());
+            Console.WriteLine($"服务端失去来自客户端的连接,SessionID:" + session.SessionID +"原因:"+ aaa.ToString()) ;
             var count = appServer.GetAllSessions().Count();
             Console.WriteLine(count);
         }
@@ -77,8 +78,8 @@ namespace superSocketServer
         /// <param name="requestInfo"></param>
         static void appServer_NewRequestReceived(AppSession session, StringRequestInfo requestInfo)
         {
-            Console.WriteLine("来自客户端的消息Key:  " + requestInfo.Key);
-            session.Send("来自客户端的消息Body:" + requestInfo.Body);
+            Console.WriteLine("返回给客户端的消息Key:  " + requestInfo.Key);
+            session.Send("返回给客户端的消息Body:" + requestInfo.Body);
         }
 
 

@@ -59,14 +59,11 @@ namespace superSocketClient
         static void Send()
         {       
             int i=1;
-            while (true)
+            while (Console.ReadLine() != String.Empty)
             {
-                string strSend;
-                if (Console.ReadLine()!=String.Empty)
-                {
-                    strSend = Console.ReadLine();
-                } 
-                var buffter = Encoding.UTF8.GetBytes($" 客户端:发送的第{i}条消息" + "\r\n");
+                string strSend= Console.ReadLine();
+
+                var buffter = Encoding.UTF8.GetBytes($" Client sent {i}th message:+{strSend}\r\n");
                 var temp = socketClient.Send(buffter);
                 i++;
                 Thread.Sleep(10000);
