@@ -3,12 +3,8 @@ D:\PersonTesting\SocketCom\SocketServer\bin\Debug\SocketServer.exe
 D:\PersonTesting\SocketCom\SocketServer\bin\Debug\SocketServer.pdb
 D:\PersonTesting\SocketCom\SocketServer\bin\Debug\log4net.dll
 D:\PersonTesting\SocketCom\SocketServer\bin\Debug\SuperSocket.Common.dll
-D:\PersonTesting\SocketCom\SocketServer\bin\Debug\SuperSocket.Facility.dll
 D:\PersonTesting\SocketCom\SocketServer\bin\Debug\SuperSocket.SocketBase.dll
 D:\PersonTesting\SocketCom\SocketServer\bin\Debug\log4net.xml
-D:\PersonTesting\SocketCom\SocketServer\bin\Debug\SuperSocket.Common.xml
-D:\PersonTesting\SocketCom\SocketServer\bin\Debug\SuperSocket.Facility.xml
-D:\PersonTesting\SocketCom\SocketServer\bin\Debug\SuperSocket.SocketBase.xml
 D:\PersonTesting\SocketCom\SocketServer\obj\Debug\SocketServer.csproj.AssemblyReference.cache
 D:\PersonTesting\SocketCom\SocketServer\obj\Debug\SocketServer.csproj.SuggestedBindingRedirects.cache
 D:\PersonTesting\SocketCom\SocketServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
@@ -16,5 +12,11 @@ D:\PersonTesting\SocketCom\SocketServer\obj\Debug\SocketServer.csproj.CopyComple
 D:\PersonTesting\SocketCom\SocketServer\obj\Debug\SocketServer.exe
 D:\PersonTesting\SocketCom\SocketServer\obj\Debug\SocketServer.pdb
 D:\PersonTesting\SocketCom\SocketServer\bin\Debug\SuperSocket.SocketEngine.dll
-D:\PersonTesting\SocketCom\SocketServer\bin\Debug\SuperSocket.SocketService.exe
-D:\PersonTesting\SocketCom\SocketServer\bin\Debug\SuperSocket.SocketEngine.xml
+D:\PersonTesting\SocketCom\SocketServer\bin\Debug\Newtonsoft.Json.dll
+D:\PersonTesting\SocketCom\SocketServer\bin\Debug\SuperWebSocket.dll
+D:\PersonTesting\SocketCom\SocketServer\bin\Debug\Newtonsoft.Json.xml
+D:\PersonTesting\SocketCom\SocketServer\bin\Debug\SuperSocket.Common.pdb
+D:\PersonTesting\SocketCom\SocketServer\bin\Debug\SuperSocket.SocketBase.pdb
+D:\PersonTesting\SocketCom\SocketServer\bin\Debug\SuperSocket.SocketEngine.pdb
+D:\PersonTesting\SocketCom\SocketServer\bin\Debug\SuperWebSocket.pdb
+D:\PersonTesting\SocketCom\SocketServer\bin\Debug\SuperWebSocket.xml

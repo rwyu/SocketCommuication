@@ -6,3 +6,14 @@ D:\PersonTesting\SocketCom\SocketClient\obj\Debug\SocketClient.csproj.SuggestedB
 D:\PersonTesting\SocketCom\SocketClient\obj\Debug\SocketClient.csproj.CoreCompileInputs.cache
 D:\PersonTesting\SocketCom\SocketClient\obj\Debug\SocketClient.exe
 D:\PersonTesting\SocketCom\SocketClient\obj\Debug\SocketClient.pdb
+D:\PersonTesting\SocketCom\SocketClient\bin\Debug\SuperSocket.ClientEngine.dll
+D:\PersonTesting\SocketCom\SocketClient\bin\Debug\System.Collections.Specialized.dll
+D:\PersonTesting\SocketCom\SocketClient\bin\Debug\System.Net.NameResolution.dll
+D:\PersonTesting\SocketCom\SocketClient\bin\Debug\System.Net.Security.dll
+D:\PersonTesting\SocketCom\SocketClient\bin\Debug\System.Net.Sockets.dll
+D:\PersonTesting\SocketCom\SocketClient\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\PersonTesting\SocketCom\SocketClient\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\PersonTesting\SocketCom\SocketClient\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\PersonTesting\SocketCom\SocketClient\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\PersonTesting\SocketCom\SocketClient\bin\Debug\WebSocket4Net.dll
+D:\PersonTesting\SocketCom\SocketClient\obj\Debug\SocketClient.csproj.CopyComplete
